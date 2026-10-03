@@ -29,6 +29,6 @@ In active development. MVP in progress.
 
 ## Built By
 
-Isabella Billini — healthcare data professional with 4+ years working inside 
+Isabella Billini — healthcare data scientist professional with 4+ years working inside 
 EMR systems, claims workflows, and HIPAA-compliant data environments.
 
